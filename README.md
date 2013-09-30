@@ -10,5 +10,7 @@ $ nohup ./bin/dev.sh 0<&- &> /tmp/app.log &
 
 Service endpoint: http://localhost:8080/library/v1
 
+#test
+
 Admin: http://localhost:8081/
 
